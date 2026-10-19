@@ -15389,5 +15389,19 @@
   "own": false,
   "game": "同時視聴",
   "collabs": []
+ },
+ {
+  "id": "f9Lnyq1oPao",
+  "title": "【デス桃太郎】こんばんわ、自認桃太郎です 【叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-19T13:30:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=f9Lnyq1oPao",
+  "thumb": "https://i.ytimg.com/vi/f9Lnyq1oPao/mqdefault_live.jpg",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "デス桃太郎",
+  "collabs": []
  }
 ]
