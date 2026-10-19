@@ -166,6 +166,20 @@
   "collabs": []
  },
  {
+  "id": "Wh2J28WHQNU",
+  "title": "【Dytica初コラボ】西の最強ヒーロー、決めようや。【伊波ライ / にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-05-07T11:00:34Z",
+  "end": "2023-05-07T12:14:46Z",
+  "url": "https://www.youtube.com/watch?v=Wh2J28WHQNU",
+  "thumb": "https://i.ytimg.com/vi/Wh2J28WHQNU/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": false,
+  "game": "Dytica初コラボ",
+  "collabs": []
+ },
+ {
   "id": "R_5FlCaTpwI",
   "title": "【スプラトゥーン3】ディティカ2次会 初めましてスプラさん 【にじさんじ/叢雲カゲツ】",
   "kind": "stream",
@@ -434,6 +448,34 @@
   "collabs": []
  },
  {
+  "id": "8p1VKo961ps",
+  "title": "【PUBG】果たして忍者とネット好き大学生は戦場で生き残れるのか？【にじさんじ/佐伯イッテツ・叢雲カゲツ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-05-25T11:00:15Z",
+  "end": "2023-05-25T12:17:30Z",
+  "url": "https://www.youtube.com/watch?v=8p1VKo961ps",
+  "thumb": "https://i.ytimg.com/vi/8p1VKo961ps/mqdefault.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": false,
+  "game": "PUBG",
+  "collabs": []
+ },
+ {
+  "id": "cyF1f7vB_ko",
+  "title": "【OW2】裏に星導とカゲツとライいる【小柳ロウ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-05-27T16:40:17Z",
+  "end": "2023-05-27T19:41:48Z",
+  "url": "https://www.youtube.com/watch?v=cyF1f7vB_ko",
+  "thumb": "https://i.ytimg.com/vi/cyF1f7vB_ko/mqdefault.jpg",
+  "channel": "小柳ロウ / Koyanagi Rou【にじさんじ】",
+  "own": false,
+  "game": "OW2",
+  "collabs": []
+ },
+ {
   "id": "21XhZyIpMnM",
   "title": "【VALORANT】ソロコンペ イモータルいってもおわらんでい【にじさんじ/叢雲カゲツ】",
   "kind": "stream",
@@ -573,6 +615,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "VALORANT",
+  "collabs": []
+ },
+ {
+  "id": "ebD7ryIvwAg",
+  "title": "【スプラ3】深夜の色塗りゲーミング。叢雲カゲツと。【伊波ライ / にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-06-05T14:44:15Z",
+  "end": "2023-06-05T17:00:27Z",
+  "url": "https://www.youtube.com/watch?v=ebD7ryIvwAg",
+  "thumb": "https://i.ytimg.com/vi/ebD7ryIvwAg/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": false,
+  "game": "スプラ3",
   "collabs": []
  },
  {
@@ -1432,6 +1488,20 @@
   "collabs": []
  },
  {
+  "id": "MuIv0-9Nkd8",
+  "title": "【コラボ振り返り】３秒黙ったら即終了！口がマシンガンな叢雲カゲツ！KPさせて！ 【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-07-30T13:41:22Z",
+  "end": "2023-07-30T15:06:01Z",
+  "url": "https://www.youtube.com/watch?v=MuIv0-9Nkd8",
+  "thumb": "https://i.ytimg.com/vi/MuIv0-9Nkd8/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "コラボ振り返り",
+  "collabs": []
+ },
+ {
   "id": "fOzQwtQbu04",
   "title": "【ピクミン４】初　見　ピ　ク　ミ　ン【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -1485,6 +1555,34 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "Only Up!朝活",
+  "collabs": []
+ },
+ {
+  "id": "sftTLPu8SCo",
+  "title": "【オフコラボ料理】お家バーベキュー！佐伯イッテツ、叢雲カゲツ #赤城ハウスでBBQ 【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-08-04T03:30:16Z",
+  "end": "2023-08-04T05:34:15Z",
+  "url": "https://www.youtube.com/watch?v=sftTLPu8SCo",
+  "thumb": "https://i.ytimg.com/vi/sftTLPu8SCo/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "オフコラボ料理",
+  "collabs": []
+ },
+ {
+  "id": "1wFoXgScj9U",
+  "title": "【振り返り】コスプレでお家BBQ！？佐伯イッテツ、叢雲カゲツ #赤城ハウスでBBQ【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-08-05T09:45:14Z",
+  "end": "2023-08-05T10:58:34Z",
+  "url": "https://www.youtube.com/watch?v=1wFoXgScj9U",
+  "thumb": "https://i.ytimg.com/vi/1wFoXgScj9U/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "振り返り",
   "collabs": []
  },
  {
@@ -2361,6 +2459,20 @@
   "collabs": []
  },
  {
+  "id": "y9Q8JkJARfI",
+  "title": "【歌ってみた】パーペキヒーロー/MECHATU-A",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-09-30T09:00:10Z",
+  "end": "2023-09-30T09:04:43Z",
+  "url": "https://www.youtube.com/watch?v=y9Q8JkJARfI",
+  "thumb": "https://i.ytimg.com/vi/y9Q8JkJARfI/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "歌ってみた",
+  "collabs": []
+ },
+ {
   "id": "sWBWnu1aUck",
   "title": "【VALORANT / ヴァロラント】ミリしらヴァロラント  実況解説 : ローレン先輩 叢雲カゲツ視点【にじさんじ/叢雲カゲツ】",
   "kind": "stream",
@@ -2865,6 +2977,20 @@
   "collabs": []
  },
  {
+  "id": "dotb6CaxdVI",
+  "title": "【Overcooked! 2】開店初日！新人バタバタ営業！ with 宇佐美リト、星導ショウ、叢雲カゲツ【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-11-04T11:02:03Z",
+  "end": "2023-11-04T13:22:52Z",
+  "url": "https://www.youtube.com/watch?v=dotb6CaxdVI",
+  "thumb": "https://i.ytimg.com/vi/dotb6CaxdVI/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "Overcooked! 2",
+  "collabs": []
+ },
+ {
   "id": "eXfdnR6mOA8",
   "title": "【VALORANT】おバロ【にじさんじ/叢雲カゲツ】",
   "kind": "stream",
@@ -3224,6 +3350,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "雑談",
+  "collabs": []
+ },
+ {
+  "id": "YE-FadWJM94",
+  "title": "【 #赤城ウェン激アツ爆誕祭2023 】お誕生日にオフコラボ鍋パ！with 星導ショウ、叢雲カゲツ【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2023-12-06T10:34:38Z",
+  "end": "2023-12-06T12:26:22Z",
+  "url": "https://www.youtube.com/watch?v=YE-FadWJM94",
+  "thumb": "https://i.ytimg.com/vi/YE-FadWJM94/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "#赤城ウェン激アツ爆誕祭2023",
   "collabs": []
  },
  {
@@ -4600,6 +4740,20 @@
   ]
  },
  {
+  "id": "5qLyO7jT7fM",
+  "title": "【オフコラボ】きゅんbroで初のホワイトデーお菓子作り！！with 叢雲カゲツ【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-03-10T10:31:51Z",
+  "end": "2024-03-10T12:33:36Z",
+  "url": "https://www.youtube.com/watch?v=5qLyO7jT7fM",
+  "thumb": "https://i.ytimg.com/vi/5qLyO7jT7fM/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "オフコラボ",
+  "collabs": []
+ },
+ {
   "id": "UHiPhSbZP9w",
   "title": "【Supermarket Simulator】叢雲マーケットへようこそ【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -4749,6 +4903,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "スプラトゥーン3",
+  "collabs": []
+ },
+ {
+  "id": "qrkweRmxwqk",
+  "title": "【#バイト組 】学生の休み時間はこれっしょ！ボクらの消しゴム落とし3【にじさんじ / 赤城ウェン / 宇佐美リト / 星導ショウ / 叢雲カゲツ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-03-23T11:06:47Z",
+  "end": "2024-03-23T12:40:56Z",
+  "url": "https://www.youtube.com/watch?v=qrkweRmxwqk",
+  "thumb": "https://i.ytimg.com/vi/qrkweRmxwqk/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "#バイト組",
   "collabs": []
  },
  {
@@ -6509,6 +6677,20 @@
   "collabs": []
  },
  {
+  "id": "PsqoB2zpYzw",
+  "title": "【VALORANT】基礎の基礎を教えてもらう！ with 叢雲カゲツ先生【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-07-28T21:21:42Z",
+  "end": "2024-07-28T22:57:20Z",
+  "url": "https://www.youtube.com/watch?v=PsqoB2zpYzw",
+  "thumb": "https://i.ytimg.com/vi/PsqoB2zpYzw/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "VALORANT",
+  "collabs": []
+ },
+ {
   "id": "qVKuWrnPIuI",
   "title": "【あつまれどうぶつの森】おしゃれな街を作るぞ #28【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -7571,6 +7753,20 @@
   "collabs": []
  },
  {
+  "id": "aB7YSPB4TTA",
+  "title": "【Dyticaコラボ】メデュラ語り部人狼とやらをさせていただきます【にじさんじ/ 星導ショウ / 叢雲カゲツ / 小柳ロウ / 伊波ライ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-10-31T12:00:09Z",
+  "end": "2024-10-31T13:09:03Z",
+  "url": "https://www.youtube.com/watch?v=aB7YSPB4TTA",
+  "thumb": "https://i.ytimg.com/vi/aB7YSPB4TTA/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "Dyticaコラボ",
+  "collabs": []
+ },
+ {
   "id": "iAanj6otaHs",
   "title": "【 モンスターハンターワイルズ 】ベータテスト！えびおさんと一狩りいくぞ！【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -8091,6 +8287,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "APEX",
+  "collabs": []
+ },
+ {
+  "id": "NU_lHif2drs",
+  "title": "【＃にじすぷーん】カゲツと一緒にGREENいっぱいのフルコースを作ります【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2024-12-18T13:00:11Z",
+  "end": "2024-12-18T14:05:01Z",
+  "url": "https://www.youtube.com/watch?v=NU_lHif2drs",
+  "thumb": "https://i.ytimg.com/vi/NU_lHif2drs/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "＃にじすぷーん",
   "collabs": []
  },
  {
@@ -8989,6 +9199,20 @@
     "url": "https://www.youtube.com/watch?v=sscKyKMThr8"
    }
   ]
+ },
+ {
+  "id": "klilvgi2uPA",
+  "title": "【MECHATU-A第2弾】「ヘアケア戦士メデュラ」として人々のヘアケアを守るためのミッションがあるそうです【にじさんじ/星導ショウ/ 叢雲カゲツ / 宇佐美リト/ 緋八マナ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-03-01T11:02:08Z",
+  "end": "2025-03-01T12:16:48Z",
+  "url": "https://www.youtube.com/watch?v=klilvgi2uPA",
+  "thumb": "https://i.ytimg.com/vi/klilvgi2uPA/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "MECHATU-A第2弾",
+  "collabs": []
  },
  {
   "id": "4Aqtg1Fmqx4",
@@ -9997,6 +10221,20 @@
   "collabs": []
  },
  {
+  "id": "YxnKbCXr5eY",
+  "title": "【#にじAnideal】プロデュース香水をご紹介させていただきます。【にじさんじ/星導ショウ/叢雲カゲツ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-05-27T11:59:05Z",
+  "end": "2025-05-27T13:01:16Z",
+  "url": "https://www.youtube.com/watch?v=YxnKbCXr5eY",
+  "thumb": "https://i.ytimg.com/vi/YxnKbCXr5eY/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "#にじAnideal",
+  "collabs": []
+ },
+ {
   "id": "ZVAqUmNDjD4",
   "title": "【Stardew Valley】完全初見。農業いけます【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -10367,6 +10605,20 @@
   "collabs": []
  },
  {
+  "id": "MNq54usW1lk",
+  "title": "【#にじてぃーたいむ】忙しいヒーローの\"まったりヌン活\"です。【星導ショウ  / 叢雲カゲツ / にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-06-26T09:59:41Z",
+  "end": "2025-06-26T11:09:05Z",
+  "url": "https://www.youtube.com/watch?v=MNq54usW1lk",
+  "thumb": "https://i.ytimg.com/vi/MNq54usW1lk/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "#にじてぃーたいむ",
+  "collabs": []
+ },
+ {
   "id": "uyM0wxNebtk",
   "title": "【GTA5 MADTOWN (β)】最終週なのか #19【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -10434,6 +10686,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "雑談",
+  "collabs": []
+ },
+ {
+  "id": "KKh-tB3XrbE",
+  "title": "【 告知あり 】重大告知を賭けた！？餃子大食いストラックアウト！！！【 MECHATU-A / にじさんじ 】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-07-01T11:59:05Z",
+  "end": "2025-07-01T13:08:17Z",
+  "url": "https://www.youtube.com/watch?v=KKh-tB3XrbE",
+  "thumb": "https://i.ytimg.com/vi/KKh-tB3XrbE/mqdefault.jpg",
+  "channel": "伊波ライ / Inami Rai【にじさんじ】",
+  "own": false,
+  "game": "告知あり",
   "collabs": []
  },
  {
@@ -10872,6 +11138,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "Mage Arena",
+  "collabs": []
+ },
+ {
+  "id": "wcbbiJdhxsI",
+  "title": "【#にじZIPPO】ZIPPOきたァァｷﾀ━━(ﾟ∀ﾟ)━━!! 【にじさんじ/佐伯イッテツ/叢雲カゲツ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-08-09T10:59:06Z",
+  "end": "2025-08-09T12:01:10Z",
+  "url": "https://www.youtube.com/watch?v=wcbbiJdhxsI",
+  "thumb": "https://i.ytimg.com/vi/wcbbiJdhxsI/mqdefault.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": false,
+  "game": "#にじZIPPO",
   "collabs": []
  },
  {
@@ -12053,6 +12333,20 @@
   "collabs": []
  },
  {
+  "id": "GM0Y7Isy-UY",
+  "title": "【#にじとっとり花回廊】唐揚げ食べて花も愛でてみた！【赤城ウェン/叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2025-12-04T10:59:09Z",
+  "end": "2025-12-04T12:02:06Z",
+  "url": "https://www.youtube.com/watch?v=GM0Y7Isy-UY",
+  "thumb": "https://i.ytimg.com/vi/GM0Y7Isy-UY/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "#にじとっとり花回廊",
+  "collabs": []
+ },
+ {
   "id": "qKleYZkqHXo",
   "title": "【スト6】ブランカ弱体化するな w/高木さん  ゆかりさん【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -12699,6 +12993,20 @@
   ]
  },
  {
+  "id": "Ew1nshTcWdE",
+  "title": "【#EVERYTHING_KYUNBRO】まさかのコラボでグッズも出る！？【赤城ウェン/叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-01-27T10:59:05Z",
+  "end": "2026-01-27T12:02:37Z",
+  "url": "https://www.youtube.com/watch?v=Ew1nshTcWdE",
+  "thumb": "https://i.ytimg.com/vi/Ew1nshTcWdE/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "#EVERYTHING_KYUNBRO",
+  "collabs": []
+ },
+ {
   "id": "WkVromevNww",
   "title": "【#にじark】恐竜育成 8【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
@@ -12738,6 +13046,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "#にじark",
+  "collabs": []
+ },
+ {
+  "id": "THsGwdH0dU8",
+  "title": "【オフコラボ！告知あり！】バイト組の男飯フルコース作る！【赤城ウェン/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-01-30T10:05:47Z",
+  "end": "2026-01-30T11:34:47Z",
+  "url": "https://www.youtube.com/watch?v=THsGwdH0dU8",
+  "thumb": "https://i.ytimg.com/vi/THsGwdH0dU8/mqdefault.jpg",
+  "channel": "赤城ウェン / Akagi Wen【にじさんじ】",
+  "own": false,
+  "game": "オフコラボ！告知あり！",
   "collabs": []
  },
  {
@@ -12878,6 +13200,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "おしゃべりキング！コミュ力診断ゲーム",
+  "collabs": []
+ },
+ {
+  "id": "YgFiWOQuMVo",
+  "title": "【遊び王3】にじさんじ人気VTuber大集結！THE遊び王決定戦Season3公開記念カウントダウンウォッチパーティ！【佐伯イッテツ、叢雲カゲツ｜にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-02-17T11:29:11Z",
+  "end": "2026-02-17T12:33:02Z",
+  "url": "https://www.youtube.com/watch?v=YgFiWOQuMVo",
+  "thumb": "https://i.ytimg.com/vi/YgFiWOQuMVo/mqdefault.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": false,
+  "game": "遊び王3",
   "collabs": []
  },
  {
@@ -15360,6 +15696,20 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "雑談",
+  "collabs": []
+ },
+ {
+  "id": "rySYV1pB3Xo",
+  "title": "【#にじMUFG】バイト組でMECHATU-Aコラボ解禁に臨みます【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-10-14T11:59:12Z",
+  "end": "2026-10-14T13:10:28Z",
+  "url": "https://www.youtube.com/watch?v=rySYV1pB3Xo",
+  "thumb": "https://i.ytimg.com/vi/rySYV1pB3Xo/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": false,
+  "game": "#にじMUFG",
   "collabs": []
  },
  {
