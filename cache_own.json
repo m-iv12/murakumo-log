@@ -14680,9 +14680,9 @@
   "url": "https://www.youtube.com/watch?v=AEIDtPH_DMQ",
   "thumb": "https://i.ytimg.com/vi/AEIDtPH_DMQ/mqdefault.jpg?v=6ae72cb5",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-01T13:03:35Z",
-  "end": null,
+  "end": "2026-11-01T16:42:45Z",
   "own": true
  }
 }
