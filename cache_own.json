@@ -14694,9 +14694,9 @@
   "url": "https://www.youtube.com/watch?v=VRWLZnnZqck",
   "thumb": "https://i.ytimg.com/vi/VRWLZnnZqck/mqdefault.jpg?v=6ae87055",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-02T11:15:49Z",
-  "end": null,
+  "end": "2026-11-02T14:24:31Z",
   "own": true
  }
 }
