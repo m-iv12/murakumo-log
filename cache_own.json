@@ -14818,11 +14818,11 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "channel_id": "UChdY64fJb14Nfnbs8EGdQig",
   "url": "https://www.youtube.com/watch?v=c1l2Mu9EjCY",
-  "thumb": "https://i.ytimg.com/vi/c1l2Mu9EjCY/mqdefault.jpg?v=6af2fbc3",
+  "thumb": "https://i.ytimg.com/vi/c1l2Mu9EjCY/mqdefault.jpg",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-10T12:30:58Z",
-  "end": null,
+  "end": "2026-11-10T16:24:08Z",
   "own": true
  }
 }
