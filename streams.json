@@ -16153,5 +16153,19 @@
   "own": true,
   "game": "How to Fish",
   "collabs": []
+ },
+ {
+  "id": "hDpupWMHPF4",
+  "title": "【ゼルダの伝説 時のオカリナ】人生初ゼルダやるぞ #1【叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-17T11:20:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=hDpupWMHPF4",
+  "thumb": "https://i.ytimg.com/vi/hDpupWMHPF4/mqdefault.jpg?v=6afc2b9e",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "ゼルダの伝説 時のオカリナ",
+  "collabs": []
  }
 ]
