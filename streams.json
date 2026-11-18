@@ -16195,5 +16195,25 @@
   "own": true,
   "game": "ゼルダの伝説 時のオカリナ",
   "collabs": []
+ },
+ {
+  "id": "izb1ObCrHzo",
+  "title": "【LoL】あのお方とデュオランク w/宇佐美リト【叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-18T13:12:43Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=izb1ObCrHzo",
+  "thumb": "https://i.ytimg.com/vi/izb1ObCrHzo/mqdefault.jpg?v=6afd9e39",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "LoL",
+  "collabs": [
+   {
+    "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+    "title": "【LoL】デュオランクをカゲツと【宇佐美リト/にじさんじ】",
+    "url": "https://www.youtube.com/watch?v=7qDyMGj-sfs"
+   }
+  ]
  }
 ]
