@@ -16208,6 +16208,26 @@
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "LoL",
+  "collabs": [
+   {
+    "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+    "title": "【LoL】デュオランクをカゲツと【宇佐美リト/にじさんじ】",
+    "url": "https://www.youtube.com/watch?v=7qDyMGj-sfs"
+   }
+  ]
+ },
+ {
+  "id": "4wP_B6VLu9Y",
+  "title": "【ゼルダの伝説 時のオカリナ】人生初ゼルダやるぞ #2【叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-19T10:30:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=4wP_B6VLu9Y",
+  "thumb": "https://i.ytimg.com/vi/4wP_B6VLu9Y/mqdefault.jpg?v=6afeba12",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "ゼルダの伝説 時のオカリナ",
   "collabs": []
  }
 ]
