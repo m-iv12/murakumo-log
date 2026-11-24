@@ -16271,5 +16271,19 @@
   "own": true,
   "game": "PUBG MOBILE",
   "collabs": []
+ },
+ {
+  "id": "zjwxPiyUkYA",
+  "title": "【ゼルダの伝説 時のオカリナ】人生初ゼルダやるぞ #5【叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-24T11:02:06Z",
+  "end": "2026-11-24T14:53:51Z",
+  "url": "https://www.youtube.com/watch?v=zjwxPiyUkYA",
+  "thumb": "https://i.ytimg.com/vi/zjwxPiyUkYA/mqdefault.jpg",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "ゼルダの伝説 時のオカリナ",
+  "collabs": []
  }
 ]
