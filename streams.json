@@ -16285,5 +16285,19 @@
   "own": true,
   "game": "ゼルダの伝説 時のオカリナ",
   "collabs": []
+ },
+ {
+  "id": "ZYU--7-bkqY",
+  "title": "【 にじさんじDAYZ : ONE LIFE 】死んだら即終了のサバイバル【叢雲カゲツ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-26T10:50:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=ZYU--7-bkqY",
+  "thumb": "https://i.ytimg.com/vi/ZYU--7-bkqY/mqdefault.jpg?v=6b07fafe",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "にじさんじDAYZ : ONE LIFE",
+  "collabs": []
  }
 ]
