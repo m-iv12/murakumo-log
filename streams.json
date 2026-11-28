@@ -16332,11 +16332,11 @@
   "id": "eahk4bpXsPE",
   "title": "【APEX】マッスル仲間とエーペックス ※告知あり w/宇佐美リト/佐伯イッテツ【叢雲カゲツ/にじさんじ】",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-28T12:04:25Z",
-  "end": null,
+  "end": "2026-11-28T14:15:53Z",
   "url": "https://www.youtube.com/watch?v=eahk4bpXsPE",
-  "thumb": "https://i.ytimg.com/vi/eahk4bpXsPE/mqdefault.jpg?v=6b0a92c1",
+  "thumb": "https://i.ytimg.com/vi/eahk4bpXsPE/mqdefault.jpg",
   "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
   "own": true,
   "game": "APEX",
@@ -16352,5 +16352,19 @@
     "url": "https://www.youtube.com/watch?v=-qkqxYq6EpA"
    }
   ]
+ },
+ {
+  "id": "MggAFoDtS00",
+  "title": "【歌ってみた】ココロオドル/nobodyknows+【叢雲カゲツ/佐伯イッテツ/宇佐美リト/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-29T10:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=MggAFoDtS00",
+  "thumb": "https://i.ytimg.com/vi/MggAFoDtS00/mqdefault.jpg",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": true,
+  "game": "歌ってみた",
+  "collabs": []
  }
 ]
